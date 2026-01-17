@@ -18,12 +18,13 @@ public class Expense {
 
     @Id
     private String id;
-    private String userId;
-    private String categoryId;
+    private String title;
+//    private String userId;
+    private String categoryname;
     private double amount;
     private LocalDate expensedate;
-    private String description;
-    private LocalDate createdAt;
-    private LocalDate updatedAt;
+
+//    private LocalDate createdAt;
+//    private LocalDate updatedAt;
 
 }

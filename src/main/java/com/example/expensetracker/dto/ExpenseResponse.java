@@ -4,9 +4,10 @@ import java.time.LocalDate;
 
 public class ExpenseResponse {
     private String expenseId;
+    private String title;
 
-    private String categoryId;
+    private String categoryname;
     private double amount;
     private LocalDate expensedate;
-    private String description;
+
 }
