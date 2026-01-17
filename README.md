@@ -1,4 +1,4 @@
-﻿# ExpenseTracker
+
 
 # ExpenseTracker
 
@@ -30,3 +30,4 @@ Open `index.html` from the `frontend` folder (backend runs on `localhost:8080`).
 ## Note
 
 This project demonstrates core backend and frontend integration concepts and is suitable for training reviews and inte
+
